@@ -1,0 +1,11 @@
+.heading{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.rounded-circle {
+    border-radius: 50% !important;
+    vertical-align: middle;
+    border-style: none;
+    width: 40%;
+}
